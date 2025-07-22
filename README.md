@@ -10,6 +10,3 @@ This repository contains my solutions for the **Junior Java Developer Skills Ass
 - Object-Oriented Programming
 - Problem-solving with conditions and loops
 - Git and documentation practices
-
-## Project Structure
-
