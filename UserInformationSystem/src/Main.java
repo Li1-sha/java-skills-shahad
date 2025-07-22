@@ -10,10 +10,9 @@ public class Main {
 
     user1.setEmail("s.harthy@icloud.com");
     System.out.println(user1.getEmail());
-    user2.setName("Omar");
+    user2.setName("Qais");
     System.out.println(user2.getName());
-    user3.setAge(19);
+    user3.setAge(20);
     System.out.println(user3.getAge());
-
     }
 }
